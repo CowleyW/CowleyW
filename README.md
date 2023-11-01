@@ -2,7 +2,7 @@
 
 ---
 
-I am an undergraduate student majoring in Computer Science at Northeastern University. I was first introduced to programming at the age of 10 when my dad got me a book about developing Minecraft Mods. Although it took a few more years to get the ball rolling, I became an avid programmer early on in High School, and have continued since.
+I am an undergraduate student majoring in Computer Science at Northeastern University. I have been programming for over 7 years now and I have a wide variety of interests, ranging from low-level programming (programming languages, game engines) to frontend development to server-side development.
 
 ---
 
